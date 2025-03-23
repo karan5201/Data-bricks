@@ -1,6 +1,3 @@
-# Data-bricks
-Okay, here's an engaging and concise LinkedIn post using the STAR method (limited to 150 words), highlighting the use of Azure Databricks and the readiness of data for visualization:
-
 **Situation:** Needed a streamlined stock data pipeline for analysis. 📈
 
 **Task:** Build a PySpark pipeline in Azure Databricks to ingest, clean, and transform stock data for visualization.
